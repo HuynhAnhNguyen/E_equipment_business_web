@@ -1,0 +1,73 @@
+﻿@model IEnumerable<TN408.Models.NhanVien>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<p>
+    <a asp-action="CreateNhanVien" class="btn btn-sm btn-outline-success">Thêm nhân viên</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                STT
+            </th>
+            <th>
+                Họ và tên
+            </th>
+            <th>
+                Ngày sinh
+            </th>
+            <th>
+                Giới tính
+            </th>
+            <th>
+                Số điện thoại
+            </th>
+            <th>
+                Địa chỉ
+            </th>
+            
+            <th>Cập nhật</th>
+        </tr>
+    </thead>
+    @{
+        var stt = 1;
+    }
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @stt
+                    @{
+                        stt++;
+                    }
+                </td>
+                <td>
+                    <a href="/Admin/NhanVien/DetailsNhanVien?id=@item.MaNhanVien" class="text-decoration-none">@item.HoNhanVien @item.TenNhanVien</a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NgaySinh)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GioiTinh)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SoDienThoai)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DiaChi)
+                </td>
+                
+                <td>
+                    <a asp-action="EditNhanVien" asp-route-id="@item.MaNhanVien" class="btn btn-sm btn-outline-success">Edit</a> |
+                    <a asp-action="DetailsNhanVien" asp-route-id="@item.MaNhanVien" class="btn btn-sm btn-outline-info">Details</a> |
+                    <a asp-action="DeleteNhanVien" asp-route-id="@item.MaNhanVien" class="btn btn-sm btn-outline-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

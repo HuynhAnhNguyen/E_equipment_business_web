@@ -1,0 +1,221 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TN408
+build_property.RootNamespace = TN408
+build_property.ProjectDir = d:\NienLuan\TN408\TN408\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\NienLuan\TN408\TN408
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/KhachHang/DetailsKhachHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2hhY2hIYW5nXERldGFpbHNLaGFjaEhhbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/KhachHang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2hhY2hIYW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/LoaiSanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVNhblBoYW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/LoaiSanPham/suaLoaiSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVNhblBoYW1cc3VhTG9haVNhblBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/LoaiSanPham/themLoaiSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVNhblBoYW1cdGhlbUxvYWlTYW5QaGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/LoaiSanPham/thongTinLoaiSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVNhblBoYW1cdGhvbmdUaW5Mb2FpU2FuUGhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/LoaiSanPham/xoaLoaiSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVNhblBoYW1ceG9hTG9haVNhblBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/NhanVien/CreateNhanVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5cQ3JlYXRlTmhhblZpZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/NhanVien/DetailsNhanVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5cRGV0YWlsc05oYW5WaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/NhanVien/EditNhanVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5cRWRpdE5oYW5WaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/NhanVien/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/SanPham/DetailsSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxEZXRhaWxzU2FuUGhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/SanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Account/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcQWNjb3VudFxJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Cart/MyItems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcQ2FydFxNeUl0ZW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Checkout/Confirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcQ2hlY2tvdXRcQ29uZmlybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Checkout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Checkout/Receipt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcQ2hlY2tvdXRcUmVjZWlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Checkout/_Cart_checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcQ2hlY2tvdXRcX0NhcnRfY2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Checkout/_Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcQ2hlY2tvdXRcX0luZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Home/getListCartItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcSG9tZVxnZXRMaXN0Q2FydEl0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Home/_Banner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcSG9tZVxfQmFubmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Login/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcTG9naW5cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Product/List_product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcUHJvZHVjdFxMaXN0X3Byb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Product/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcUHJvZHVjdFxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Receipt/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcUmVjZWlwdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Receipt/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcUmVjZWlwdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Shared/_Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcU2hhcmVkXF9DYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Shared/_Cart_Full.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcU2hhcmVkXF9DYXJ0X0Z1bGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Shared/_Hot_Items.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcU2hhcmVkXF9Ib3RfSXRlbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Shared/_Product_Card.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcU2hhcmVkXF9Qcm9kdWN0X0NhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Shared/_Product_Fillter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcU2hhcmVkXF9Qcm9kdWN0X0ZpbGx0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/Shared/_Product_Option.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcU2hhcmVkXF9Qcm9kdWN0X09wdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Areas/Store/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/NienLuan/TN408/TN408/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g18g1e1dju

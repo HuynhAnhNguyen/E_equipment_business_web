@@ -1,0 +1,77 @@
+﻿@using TN408.Models
+@model TN408.Models.NhanVien
+
+@{
+    ViewData["Title"] = "Thêm nhân viên";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<div>
+    <a asp-action="Index" class="btn btn-sm btn-outline-success">Trở về</a>
+</div>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateNhanVien" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input asp-for="MaNhanVien" class="form-control d-none" value="1" />
+                <span asp-validation-for="MaNhanVien" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Họ nhân viên
+                <input asp-for="HoNhanVien" class="form-control" />
+                <span asp-validation-for="HoNhanVien" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Tên nhân viên
+                <input asp-for="TenNhanVien" class="form-control" />
+                <span asp-validation-for="TenNhanVien" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Ngày sinh
+                <input asp-for="NgaySinh" class="form-control" />
+                <span asp-validation-for="NgaySinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Giới tính
+                <input asp-for="GioiTinh" class="form-control" />
+                <span asp-validation-for="GioiTinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Số điện thoại
+                <input asp-for="SoDienThoai" class="form-control" />
+                <span asp-validation-for="SoDienThoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Địa chỉ
+                <input asp-for="DiaChi" class="form-control" />
+                <span asp-validation-for="DiaChi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Nhóm
+                <select name="MaNhom" id="MaNhom" class="form-control">
+                    @foreach (var nhom in (List<Nhom>)ViewData["Nhoms"])
+                    {
+                        <option value="@nhom.MaNhom">@nhom.TenNhom</option>
+                    }
+                </select>
+                <span asp-validation-for="MaNhom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Mật khẩu
+                <input asp-for="MatKhau" class="form-control" />
+                <span asp-validation-for="MatKhau" class="text-danger"></span>
+            </div>
+            <br />
+            
+            <div class="form-group">
+                <input type="submit" value="Thêm" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+
+

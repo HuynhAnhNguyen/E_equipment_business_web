@@ -1,0 +1,79 @@
+﻿@model IEnumerable<TN408.Models.SanPham>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<p>
+    <a asp-action="CreateVatTu" class="btn btn-sm btn-outline-success">Thêm sản phẩm</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                STT
+            </th>
+            <th>
+                Tên sản phẩm
+            </th>
+            <th>
+                Hình ảnh
+            </th>
+            <th>
+                Giá bán
+            </th>
+            <th>
+                Số lượng tồn
+            </th>
+            <th>
+                Đơn vị tính
+            </th>
+            <th>
+                Loại sản phẩm
+            </th>
+            <th>
+                Cập nhật
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            var stt = 1;
+        }
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @stt
+                    @{
+                        stt++;
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenSanPham)
+                </td>
+                <td>
+                    <img height="50px" width="50px" src="@ViewData["path"]@item.HinhAnh" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => @item.GiaBan)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SoLuongTon)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaDvtNavigation.TenDvt)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaLoaiSpNavigation.TenLoaiSp)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.MaSanPham" class="btn btn-sm btn-outline-success">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.MaSanPham" class="btn btn-sm btn-outline-info">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.MaSanPham" class="btn btn-sm btn-outline-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

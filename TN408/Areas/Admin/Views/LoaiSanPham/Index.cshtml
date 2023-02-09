@@ -1,0 +1,56 @@
+﻿@model IEnumerable<TN408.Models.LoaiSanPham>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>Danh sách loại sản phẩm</h1>
+
+<p>
+    <a asp-action="themLoaiSanPham">Thêm loại sản phẩm mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                STT
+            </th>
+            <th>
+                Mã loại
+            </th>
+            <th>
+                Tên loại
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    @{
+        var stt = 1;
+    }
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @stt
+                    @{
+                        stt++;
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaLoaiSp)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenLoaiSp)
+                </td>
+                <td>
+                    <a asp-action="suaLoaiSanPham" asp-route-id="@item.MaLoaiSp">Edit</a> |
+                    <a asp-action="thongTinLoaiSanPham" asp-route-id="@item.MaLoaiSp">Details</a> |
+                    <a asp-action="xoaLoaiSanPham" asp-route-id="@item.MaLoaiSp">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

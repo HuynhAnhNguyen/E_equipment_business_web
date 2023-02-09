@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TN408.props" />
+</Project>

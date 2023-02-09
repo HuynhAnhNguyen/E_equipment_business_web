@@ -1,0 +1,1045 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TN408.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TN408.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\flex-slider.min.css",
+      "PackagePath": "staticwebassets\\css\\flex-slider.min.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.min.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\niceselect.css",
+      "PackagePath": "staticwebassets\\css\\niceselect.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\styless.css",
+      "PackagePath": "staticwebassets\\css\\styless.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\ishop.png",
+      "PackagePath": "staticwebassets\\images\\ishop.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\map-marker.png",
+      "PackagePath": "staticwebassets\\images\\map-marker.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\payment-method.png",
+      "PackagePath": "staticwebassets\\images\\payment-method.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\payments.png",
+      "PackagePath": "staticwebassets\\images\\payments.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\acer-nitro-5-tiger-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\acer-nitro-5-tiger-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\asus-tuf-gaming-fx517zc-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\asus-tuf-gaming-fx517zc-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\dell-gaming-g15-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\dell-gaming-g15-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\hp-elitebook-x360-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\hp-elitebook-x360-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\ipad-pro-m1-11-inch-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\ipad-pro-m1-11-inch-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-do.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-do.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-mini-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-mini-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-mini-do.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-mini-do.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-mini-tim.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-mini-tim.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-mini-trang.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-mini-trang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-mini-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-mini-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-mini-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-mini-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-pro-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-pro-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-pro-max-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-pro-max-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-pro-max-vang.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-pro-max-vang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-pro-max-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-pro-max-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-pro-max-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-pro-max-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-pro-vang.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-pro-vang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-pro-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-pro-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-pro-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-pro-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-tim.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-tim.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-trang.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-trang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-12-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-12-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-hong.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-hong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-mini-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-mini-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-mini-do.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-mini-do.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-mini-hong.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-mini-hong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-mini-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-mini-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-mini-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-mini-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-pro-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-pro-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-pro-max-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-pro-max-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-pro-max-vang.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-pro-max-vang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-pro-max-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-pro-max-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-pro-max-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-pro-max-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-pro-max-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-pro-max-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-pro-vang.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-pro-vang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-pro-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-pro-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-pro-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-pro-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-pro-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-pro-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-trang.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-trang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-13-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-13-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-da-co-hang.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-da-co-hang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-dat-truoc.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-dat-truoc.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-do.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-do.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-giam-gia.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-giam-gia.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-plus-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-plus-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-plus-do.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-plus-do.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-plus-tim-nhat.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-plus-tim-nhat.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-plus-trang.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-plus-trang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-plus-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-plus-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-pro-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-pro-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-pro-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-pro-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-pro-max-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-pro-max-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-pro-max-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-pro-max-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-pro-max-tim.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-pro-max-tim.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-pro-max-vang.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-pro-max-vang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-pro-tim.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-pro-tim.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-pro-vang.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-pro-vang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-tim-nhat.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-tim-nhat.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-trang.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-trang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\iphone-14-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\iphone-14-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\lenovo-thinkpad-p15s-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\lenovo-thinkpad-p15s-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\lenovo-yoga-tab-11-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\lenovo-yoga-tab-11-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\macbook-air-m1-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\macbook-air-m1-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\macbook-air-m1-vang.png",
+      "PackagePath": "staticwebassets\\images\\product\\macbook-air-m1-vang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\macbook-air-m1-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\macbook-air-m1-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\msi-gaming-pulse-gl66-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\msi-gaming-pulse-gl66-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\nokia-g21-tim.png",
+      "PackagePath": "staticwebassets\\images\\product\\nokia-g21-tim.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\nokia-g21-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\nokia-g21-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno7-4g-cam.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno7-4g-cam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno7-4g-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno7-4g-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno7-5g-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno7-5g-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno7-5g-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno7-5g-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno7-pro-5g-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno7-pro-5g-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno7-pro-5g-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno7-pro-5g-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno7-z-5g-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno7-z-5g-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno7-z-5g-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno7-z-5g-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno8-5g-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno8-5g-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno8-5g-vang.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno8-5g-vang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno8-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno8-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno8-vang.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno8-vang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno8-z-5g-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno8-z-5g-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\oppo-reno8-z-5g-vang.png",
+      "PackagePath": "staticwebassets\\images\\product\\oppo-reno8-z-5g-vang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\realme-8-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\realme-8-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\realme-8-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\realme-8-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\realme-9-pro-5g-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\realme-9-pro-5g-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\realme-9-pro-5g-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\realme-9-pro-5g-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\realme-9-pro-plus-5g-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\realme-9-pro-plus-5g-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s20-fe-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s20-fe-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s20-fe-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s20-fe-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s21-fe-tim.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s21-fe-tim.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s21-fe-trang.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s21-fe-trang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s21-fe-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s21-fe-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s21-fe-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s21-fe-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s22-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s22-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s22-hong.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s22-hong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s22-plus-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s22-plus-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s22-plus-hong.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s22-plus-hong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s22-plus-trang.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s22-plus-trang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s22-plus-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s22-plus-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s22-trang.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s22-trang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s22-ultra-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s22-ultra-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s22-ultra-do.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s22-ultra-do.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s22-ultra-trang.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s22-ultra-trang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s22-ultra-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s22-ultra-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-s22-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-s22-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-tab-s8-ultra-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-tab-s8-ultra-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-z-flip3-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-z-flip3-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-z-flip3-xanh-la.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-z-flip3-xanh-la.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-z-flip4-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-z-flip4-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-z-flip4-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-z-flip4-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-z-fold3-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-z-fold3-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-z-fold3-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-z-fold3-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-z-fold3-xanh-reu.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-z-fold3-xanh-reu.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-z-fold4-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-z-fold4-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-z-fold4-kem.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-z-fold4-kem.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\samsung-galaxy-z-fold4-xanh-reu.png",
+      "PackagePath": "staticwebassets\\images\\product\\samsung-galaxy-z-fold4-xanh-reu.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\surface-pro-8-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\surface-pro-8-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\surface-pro-8-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\surface-pro-8-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\vivo-t1-5g-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\vivo-t1-5g-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\vivo-t1-5g-xanh.png",
+      "PackagePath": "staticwebassets\\images\\product\\vivo-t1-5g-xanh.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\vivo-v23-5g-vang.png",
+      "PackagePath": "staticwebassets\\images\\product\\vivo-v23-5g-vang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\vivo-v23-5g-xanh-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\vivo-v23-5g-xanh-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\vivo-x80-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\vivo-x80-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\vivo-x80-xanh-lam.png",
+      "PackagePath": "staticwebassets\\images\\product\\vivo-x80-xanh-lam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\xiaomi-redmi-11t-pro-5g-trang.png",
+      "PackagePath": "staticwebassets\\images\\product\\xiaomi-redmi-11t-pro-5g-trang.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\xiaomi-redmi-11t-pro-5g-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\xiaomi-redmi-11t-pro-5g-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\xiaomi-redmi-11t-pro-5g-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\xiaomi-redmi-11t-pro-5g-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\xiaomi-redmi-k50-gaming-bac.png",
+      "PackagePath": "staticwebassets\\images\\product\\xiaomi-redmi-k50-gaming-bac.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\xiaomi-redmi-k50-gaming-den.png",
+      "PackagePath": "staticwebassets\\images\\product\\xiaomi-redmi-k50-gaming-den.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\xiaomi-redmi-k50-gaming-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\xiaomi-redmi-k50-gaming-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\xiaomi-redmi-note-11-xam.png",
+      "PackagePath": "staticwebassets\\images\\product\\xiaomi-redmi-note-11-xam.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\xiaomi-redmi-note-11-xanh-duong.png",
+      "PackagePath": "staticwebassets\\images\\product\\xiaomi-redmi-note-11-xanh-duong.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\images\\product\\xiaomi-redmi-note-11-xanh-reu.png",
+      "PackagePath": "staticwebassets\\images\\product\\xiaomi-redmi-note-11-xanh-reu.png"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\active.js",
+      "PackagePath": "staticwebassets\\js\\active.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\easing.js",
+      "PackagePath": "staticwebassets\\js\\easing.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\facnybox.min.js",
+      "PackagePath": "staticwebassets\\js\\facnybox.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\finalcountdown.min.js",
+      "PackagePath": "staticwebassets\\js\\finalcountdown.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\flex-slider.js",
+      "PackagePath": "staticwebassets\\js\\flex-slider.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\gmap.min.js",
+      "PackagePath": "staticwebassets\\js\\gmap.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\jquery-3.6.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.1.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\jquery-migrate-3.0.0.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.0.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\magnific-popup.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\map-script.js",
+      "PackagePath": "staticwebassets\\js\\map-script.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\nicesellect.js",
+      "PackagePath": "staticwebassets\\js\\nicesellect.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\onepage-nav.min.js",
+      "PackagePath": "staticwebassets\\js\\onepage-nav.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\scrollup.js",
+      "PackagePath": "staticwebassets\\js\\scrollup.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\slicknav.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\js\\ytplayer.min.js",
+      "PackagePath": "staticwebassets\\js\\ytplayer.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\NienLuan\\TN408\\TN408\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TN408.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TN408.props",
+      "PackagePath": "build\\TN408.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TN408.props",
+      "PackagePath": "buildMultiTargeting\\TN408.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TN408.props",
+      "PackagePath": "buildTransitive\\TN408.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
